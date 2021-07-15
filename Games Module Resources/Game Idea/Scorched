@@ -1,0 +1,33 @@
+SCORCHED
+Every tile player touches turns to fire
+	- tiles have associated health bars (player can run over the tile a total of x times before it gets destroyed)
+touching same tile again kills player (or the tile just gets destroyed)
+dash movement using shift + cardinal direction (diagonals?)
+
+
+LEVEL DESIGN
+parallax on all levels - moutains/cliffs/ in background?
+key levels where grabbing a key unlocks the warp to access the end of the level
+timer levels - stepping on plate or shooting flame at target allows access to warp for limited time
+ice tiles which allow for stepping on twice - 2 health
+boss battle to wrap it up? - tiles with 5 health 
+powerups/enemies?
+Some levels - especially lava land could have tiles which are already scoched (0 health)
+
+Plan:
+Today
+Parallax of levels
+lava tiles - grassland only
+rigidbody
+
+Tomorrow 
+Game logic
+	keys
+	player interacting with level
+	warps
+	level design
+	
+Day after
+Lava tiles - all
+scorched trees and terrain design
+levels - all regions
